@@ -1,1 +1,1 @@
-content of master.txt
+update content of master.txt on private branch
